@@ -1,5 +1,5 @@
 
-const mathscore = 80;
+const mathscore = 90;
 
 if (mathscore === 85) {
     console.log("Passed.");
