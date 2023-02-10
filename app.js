@@ -1,7 +1,7 @@
 
 const mathscore = 90;
 
-if (mathscore === 85) {
+if (mathscore > 85) {
     console.log("Passed.");
 } else {
     console.log("Failed.");
