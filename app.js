@@ -4,5 +4,4 @@ if (testscore > 80) {
     console.log("Passed.");
 } else {
     console.log("Failed.");
-
 }
