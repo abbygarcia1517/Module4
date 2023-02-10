@@ -1,7 +1,17 @@
-const testscore = 80;
 
-if (testscore === 85) {
+const mathscore = 80;
+
+if (mathscore === 85) {
     console.log("Passed.");
 } else {
     console.log("Failed.");
 }
+
+const englishcore = 70;
+
+if (englishcore < 85) {
+    console.log("Passed.");
+} else {
+    console.log("Failed.");
+}
+
