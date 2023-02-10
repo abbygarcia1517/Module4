@@ -6,3 +6,8 @@ if (englishcore < 85) {
     console.log("Failed.");
 }
 
+
+console.log("Science Test Date " + "October 15");
+
+
+
